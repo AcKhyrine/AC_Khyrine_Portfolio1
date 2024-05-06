@@ -70,7 +70,7 @@ body {
 
 #car {
     position: fixed;
-    top: 75%;
+    top: 70%;
     left: 20px;
     transform: translateY(-50%);
     z-index: 5;
@@ -375,7 +375,7 @@ span {
 }
 
 .third-left img{
-    padding-bottom: 20%;
+    padding-bottom: 32%;
 }
 .third-right {
     width: 65%;
@@ -957,7 +957,7 @@ section:nth-child(4) {
 
 .contant form {
     text-align: center;
-    max-width: 50rem;
+    max-width: 40rem;
     margin: 1rem auto;
     margin-bottom: 3rem;
 }
@@ -1522,7 +1522,7 @@ section:nth-child(4) {
 }
 
 .text1 {
-    font-size: .7rem;
+    font-size: .5rem;
     line-height: 1.8rem;
     z-index: 2;
 }
