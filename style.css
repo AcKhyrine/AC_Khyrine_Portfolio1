@@ -1257,8 +1257,8 @@ section:nth-child(4) {
     flex: 1 1 calc(25% - 40px);
     box-sizing: border-box;
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     z-index: 9;
     pointer-events: none;
 }
